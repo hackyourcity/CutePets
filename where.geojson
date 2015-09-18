@@ -7,6 +7,18 @@
 			"type": "Feature", 
 			"properties": 
 			{ 
+				"twitter" : "http://twitter.com/CutePetsAdamsCo213ewf"
+			}, 
+			"geometry": 
+			{ 
+				"type": "Point", 
+				"coordinates": [ -104.871902 , 39.891651 ] 
+			} 
+		},
+		{ 
+			"type": "Feature", 
+			"properties": 
+			{ 
 				"twitter" : "http://twitter.com/CutePetsAdamsCo"
 			}, 
 			"geometry": 
